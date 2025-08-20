@@ -10,7 +10,7 @@ export const HOT_TOPICS = {
   children: [
     {
       key: "1-1",
-      description: "What has Ant Design X upgraded?",
+      description: "What has lzw upgraded?",
       icon: <span style={{ color: "#f93a4a", fontWeight: 700 }}>1</span>,
     },
     {
@@ -20,7 +20,7 @@ export const HOT_TOPICS = {
     },
     {
       key: "1-3",
-      description: "What components are in Ant Design X?",
+      description: "What components are in lzw?",
       icon: <span style={{ color: "#ff8f1f", fontWeight: 700 }}>3</span>,
     },
     {

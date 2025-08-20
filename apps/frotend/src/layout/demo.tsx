@@ -42,7 +42,7 @@ type BubbleDataType = {
 const DEFAULT_CONVERSATIONS_ITEMS = [
   {
     key: "default-0",
-    label: "What is Ant Design X?",
+    label: "What is lzw?",
     group: "Today",
   },
   {
@@ -63,7 +63,7 @@ const HOT_TOPICS = {
   children: [
     {
       key: "1-1",
-      description: "What has Ant Design X upgraded?",
+      description: "What has lzw upgraded?",
       icon: <span style={{ color: "#f93a4a", fontWeight: 700 }}>1</span>,
     },
     {
@@ -73,7 +73,7 @@ const HOT_TOPICS = {
     },
     {
       key: "1-3",
-      description: "What components are in Ant Design X?",
+      description: "What components are in lzw?",
       icon: <span style={{ color: "#ff8f1f", fontWeight: 700 }}>3</span>,
     },
     {
@@ -374,7 +374,7 @@ const Independent: React.FC = () => {
           width={24}
           height={24}
         />
-        <span>Ant Design X</span>
+        <span>lzw</span>
       </div>
 
       {/* 🌟 添加会话 */}
@@ -498,7 +498,7 @@ const Independent: React.FC = () => {
           <Welcome
             variant="borderless"
             icon="https://mdn.alipayobjects.com/huamei_iwk9zp/afts/img/A*s5sNRo5LjfQAAAAAAAAAAAAADgCCAQ/fmt.webp"
-            title="Hello, I'm Ant Design X"
+            title="Hello, I'm lzw"
             description="Base on Ant Design, AGI product interface solution, create a better intelligent vision~"
             extra={
               <Space>

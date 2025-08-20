@@ -44,7 +44,7 @@ function ChatSider({
           width={24}
           height={24}
         />
-        <span>Ant Design X</span>
+        <span>lzw</span>
       </div>
 
       {/* 🌟 添加会话 */}

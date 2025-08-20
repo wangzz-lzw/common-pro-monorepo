@@ -13,7 +13,7 @@ type BubbleDataType = {
 const DEFAULT_CONVERSATIONS_ITEMS = [
   {
     key: "default-0",
-    label: "What is Ant Design X?",
+    label: "What is lzw?",
     group: "Today",
   },
   {

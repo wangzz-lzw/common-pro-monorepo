@@ -19,7 +19,7 @@ async function bootstrap() {
       try {
         mcpClient = new MCPClient();
         const serverScriptPath =
-          "/home/wangzz/下载/myproject/next-mcp-client/src/opendia-mcp/server.js";
+          "/home/wangzz/下载/myproject/common-pro-monorepo/apps/opendia-mcp/server.js";
         await mcpClient.connectToServer(serverScriptPath);
         isConnecting = false;
         return res.send({
